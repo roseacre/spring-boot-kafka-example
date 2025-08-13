@@ -10,7 +10,6 @@
         <version>3.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>uk.gov.dwp.health</groupId>
     <artifactId>spring-boot-kafka-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-kafka-example</name>
